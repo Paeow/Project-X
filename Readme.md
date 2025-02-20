@@ -1,6 +1,6 @@
-# ProjectX
+# Project-Alpha
 
-Welcome to **ProjectX**, an open-source initiative aimed at simplifying automation workflows. This repository contains the following components:
+Welcome to **Project-Alpha**, an open-source initiative aimed at simplifying automation workflows. This repository contains the following components:
 
 - **Documentation:** Comprehensive guides and API references.
 - **Source Code:** Core functionality with modular components.
@@ -8,18 +8,18 @@ Welcome to **ProjectX**, an open-source initiative aimed at simplifying automati
 
 ## Getting Started
 
-To start using ProjectX, follow these steps:
+To start using Project-Alpha, follow these steps:
 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/example/projectX.git
+    git clone https://github.com/example/project-Alpha.git
     ```
 
 2. Install dependencies:
 
     ```bash
-    cd projectX
+    cd project-Alpha
     npm install
     ```
 
